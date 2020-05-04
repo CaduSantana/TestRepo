@@ -1,5 +1,5 @@
 # Test Repo
 
-![/guitar pick.jpg](Guitar picks)
+![Guitar Picks](./guitar pick.jpg)
 
 Este eh um repositorio pessoal para aprendizado de Git.
